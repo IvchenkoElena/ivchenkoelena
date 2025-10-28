@@ -38,7 +38,12 @@
 ---
 ### Statistics:
 
+<!-- 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ivchenkoelena&count_private=true&show_icons=true&bg_color=000000&title_color=3B82F6&text_color=60A5FA&icon_color=3B82F6&hide_border=true)
+-->
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ivchenkoelena&count_private=true&show_icons=true&bg_color=000000&title_color=3B82F6&text_color=60A5FA&ide_border=true)
+
 
 ---
 ## 📫 Связь
